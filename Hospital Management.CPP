@@ -267,12 +267,7 @@ void display_all()
 
 void intro()
 {
-	cout<<"\n\n\n"<<setw(43)<<"SICA SS SCHOOL";
 	cout<<"\n\n\n\n\n\t\t\tHOTEL MANAGEMENT SYSTEM";
-	cout<<"\n\n"<<setw(44)<<"Session : 2015-16";
-	cout<<"\n\n\n\n\n\n\n\nGUIDED BY :";
-	cout<<"\t\t\t\t\t\t     SUBMITTED BY :";
-	cout<<"\nMR. SANJAY OJHA";
 	cout<<setw(62)<<" AARSHI CHOURASIA";
 	getch();
 }
